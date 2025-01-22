@@ -5,3 +5,5 @@ Analiza biznesowo-systemowa projektu sklepu online skupia się na połączeniu w
 
 ## Online Grocery and General Store System
 The business-system analysis of the online store project focuses on bridging user requirements with system functionality. Key needs identified in the project include browsing products, online shopping, payment processing, and managing inventory and orders. Using UML, a use case diagram was created to illustrate interactions between customers (e.g., adding products to the cart) and the administrator/system manager (managing the system). An analytical model was also developed, defining the system structure with main entities such as "product," "order," and "user." A sequence diagram visualizes key processes, such as completing an order from product selection to payment finalization. This ensures the project reflects both business and technical needs, maintaining consistency between business processes and the implemented technology.
+
+<object data="DocsShopOnline.pdf" width="1000" height="1000" type='application/pdf'/>
